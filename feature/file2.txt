@@ -1,0 +1,1 @@
+the content of the file 2 in the feature in the branch feature
